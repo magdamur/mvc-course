@@ -1,0 +1,6 @@
+[ActionName("Modify")]
+[HttpGet] or [HttpPost]
+public ActionResult Edit(string departamentName)
+{
+ //...
+}
