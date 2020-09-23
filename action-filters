@@ -1,0 +1,7 @@
+NAME                      |DESCRIPTION
+-----------------------------------------------------------------------------------------------
+OutputCache               |Cache the autput of a controller
+ValidateInput             |Turn off request validation and allow dangerous input
+Authorize                 |Restrict an action to authorized users or roles
+ValidateAntiForgeryToken  |Helps prevent cross site request forgeries
+HandleError               |Can specify a view to render in the event of an unhandled exception
