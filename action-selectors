@@ -1,9 +1,11 @@
 1/ ACTION NAME
------------------------------------------------
 [ActionName("Modify")]
+public ActionResult Edit(string departamentName)
+{
+ //...
+}
 -----------------------------------------------
 2/ ACCEPT VERBS
------------------------------------------------
 [HttpGet] or [HttpPost]
 public ActionResult Edit(string departamentName)
 {
