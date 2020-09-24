@@ -1,0 +1,9 @@
+Schema First - open graphical designer in VisualStudio point it to an existing database and 
+it can import the database schema and generate all the clases you need to query and update the database
+----------------------------------------------------------------------------------------------------------
+Model First - open graphical designer in VisualStudio and draw a conceptual
+model for my applications, so what classes do I want EF generate both my classes definitions
+and my database schema
+----------------------------------------------------------------------------------------------------------
+Code First - I write the classes and EF can use these classes definitions to create database for me.
+
