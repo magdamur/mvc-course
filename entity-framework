@@ -1,4 +1,4 @@
-Schema First - open graphical designer in VisualStudio point it to an existing database and 
+DB First - open graphical designer in VisualStudio point it to an existing database and 
 it can import the database schema and generate all the clases you need to query and update the database
 ----------------------------------------------------------------------------------------------------------
 Model First - open graphical designer in VisualStudio and draw a conceptual
