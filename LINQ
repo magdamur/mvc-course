@@ -1,0 +1,7 @@
+Comprehension Query Syntax
+var model = from t in _db.Toys
+  where t.Name == "Barbie"
+  orderby t.Name
+  select t;
+  
+  
