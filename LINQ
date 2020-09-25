@@ -1,7 +1,15 @@
 Comprehension Query Syntax
+-------------------------------------
 var model = from t in _db.Toys
   where t.Name == "Barbie"
   orderby t.Name
   select t;
   
   
+ Extnsion Method Syntax
+-------------------------------------
+var model = _db.Toys
+      .Where(t=>t.Name == "Barbie")
+      .OrderBy (t=>t.Name)
+      .Skip(10)
+      .Take(10);
