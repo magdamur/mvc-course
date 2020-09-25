@@ -16,3 +16,4 @@ var model = _db.Toys
 
 https://www.linqpad.net/
 https://docs.microsoft.com/pl-pl/samples/dotnet/try-samples/101-linq-samples/
+https://docs.microsoft.com/pl-pl/samples/browse/?redirectedfrom=MSDN-samples
