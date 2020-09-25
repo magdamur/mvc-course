@@ -13,3 +13,6 @@ var model = _db.Toys
       .OrderBy (t=>t.Name)
       .Skip(10)
       .Take(10);
+
+https://www.linqpad.net/
+https://docs.microsoft.com/pl-pl/samples/dotnet/try-samples/101-linq-samples/
