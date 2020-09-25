@@ -1,0 +1,2 @@
+go to Package Manager Console and type (view/other windows):
+Enable-Migrations -ContextTypeName ToyStore.Models.ToyDb
